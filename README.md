@@ -17,11 +17,11 @@ Mirai developpement from scratch
 
 ### Aims 
 
-[] Virtual environement 
-	[] private network 
-	[] vitual machines
-[] Mirai 
-	[] 
+[ ] Virtual environement 
+	[ ] private network 
+	[ ] vitual machines
+[ ] Mirai 
+	[ ] 
 
 ### Comments
 
